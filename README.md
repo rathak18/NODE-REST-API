@@ -1,2 +1,2 @@
-# NODE-REST-API
+# SOCIAL-MEDIA-API
 Social  media rest api
