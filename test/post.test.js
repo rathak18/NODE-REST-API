@@ -11,6 +11,8 @@ const testUser = {
   password: 'testpassword',
 };
 
+// hello
+
 // Create a test post for the tests
 let testPost;
 
