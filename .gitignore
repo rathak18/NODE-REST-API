@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+.pnpm/
+.npm/
+.npm-packages/
+.yarn/
+.yarn-integrity/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio Code directory
+.vscode/
+
+# Jest coverage directory
+coverage/
+
+# Temporary files
+*.tmp
+
+# Environment variables file
+.env
+
+# IDE settings
+.idea/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
